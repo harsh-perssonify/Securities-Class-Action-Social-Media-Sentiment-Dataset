@@ -1,0 +1,846 @@
+case_ref,case_id,cohort,ticker,company_name
+CASE_0001,0_24cv1743,2024,UNH,UnitedHealth Group Inc
+CASE_0002,0_24cv3028,2024,LFCR,"Lifecore Biomedical, Inc"
+CASE_0003,1_24cv10152,2024,ALVR,"AlloVir, Inc"
+CASE_0004,1_24cv1030,2024,LUXH,LuxUrban Hotels Inc
+CASE_0005,1_24cv10761,2024,EVLV,"EVOLV TECHNOLOGIES HOLDINGS, INC."
+CASE_0006,1_24cv10803,2024,BLUE,"BLUEBIRD BIO, INC"
+CASE_0007,1_24cv1131,2024,BMBL,Bumble Inc
+CASE_0008,1_24cv11935,2024,VICR,Vicor Corporation
+CASE_0009,1_24cv12058,2024,MRNA,"Moderna, Inc"
+CASE_0010,1_24cv12068,2024,AMLX,"Amylyx Pharmaceuticals, Inc"
+CASE_0011,1_24cv12090,2024,SYM,Symbotic Inc
+CASE_0012,1_24cv12218,2024,VERV,"Verve Therapeutics, Inc"
+CASE_0013,1_24cv12299,2024,AGEN,Agenus Inc
+CASE_0014,1_24cv12691,2024,BIIB,Biogen Inc
+CASE_0015,1_24cv12768,2024,EVLV,"Evolv Technologies Holdings, Inc"
+CASE_0016,1_24cv12976,2024,SYM,Symbotic Inc
+CASE_0017,1_24cv1351,2024,DXC,DXC TECHNOLOGY CO
+CASE_0018,1_24cv1410,2024,CPRI,Capri Holdings Limited
+CASE_0019,1_24cv1458,2024,SPIR,"Spire Global, Inc"
+CASE_0020,1_24cv1525,2024,SAVA,"Cassava Sciences, Inc"
+CASE_0021,1_24cv154,2024,EAF,GrafTech International Ltd
+CASE_0022,1_24cv169,2024,ASRT,"Assertio Holdings, Inc"
+CASE_0023,1_24cv1873,2024,ICU,SeaStar Medical Holding Corporation
+CASE_0024,1_24cv1971,2024,INVZ,Innoviz Technologies Ltd
+CASE_0025,1_24cv2175,2024,VSTS,Vestis Corporation
+CASE_0026,1_24cv2613,2024,CKPT,"Checkpoint Therapeutics, Inc"
+CASE_0027,1_24cv2712,2024,FNA,"Paragon 28, Inc"
+CASE_0028,1_24cv2750,2024,VFS,VinFast Auto Ltd
+CASE_0029,1_24cv2769,2024,SHCR,"Sharecare, Inc"
+CASE_0030,1_24cv2804,2024,QDEL,"QuidelOrtho Corporation, formerly known as Quidel Corporation"
+CASE_0031,1_24cv282,2024,LW,"Lamb Weston Holdings, Inc"
+CASE_0032,1_24cv297,2024,AGLN,AGILON HEALTH
+CASE_0033,1_24cv3071,2024,GCBC,Global Cord Blood Corporation
+CASE_0034,1_24cv3254,2024,MBUU,"Malibu Boats, Inc"
+CASE_0035,1_24cv3387,2024,BOOM,DMC Global Inc
+CASE_0036,1_24cv3470,2024,LI,Li Auto Inc
+CASE_0037,1_24cv361,2024,CC,THE CHEMOURS CO
+CASE_0038,1_24cv3686,2024,NARI,"Inari Medical, Inc"
+CASE_0039,1_24cv3867,2024,SPT,"Sprout Social, Inc"
+CASE_0040,1_24cv406,2024,PLUG,Plug Power Inc
+CASE_0041,1_24cv4240,2024,CMBM,Cambium Networks Corporation
+CASE_0042,1_24cv4591,2024,UPS,"United Parcel Service, Inc"
+CASE_0043,1_24cv4608,2024,GME,GameStop Corp
+CASE_0044,1_24cv4702,2024,PATH,"UiPath, Inc"
+CASE_0045,1_24cv5007,2024,SRG,SERITAGE GROWTH PROPERTIES
+CASE_0046,1_24cv517,2024,BTI,Reynolds American Inc
+CASE_0047,1_24cv5191,2024,MDB,"MongoDB, Inc"
+CASE_0048,1_24cv5303,2024,CVS,CVS Health Corporation
+CASE_0049,1_24cv5310,2024,BNTX,BIONTECH SE
+CASE_0050,1_24cv5347,2024,ABR,"ABR Realty Trust, Inc"
+CASE_0051,1_24cv5360,2024,CAE,CAE Inc
+CASE_0052,1_24cv556,2024,HRBR,"Harbor Diversified, Inc"
+CASE_0053,1_24cv5653,2024,PDD,Pinduoduo Inc
+CASE_0054,1_24cv5692,2024,EXAI,EXSCIENTIA P.L.C
+CASE_0055,1_24cv590,2024,SAVA,"Cassava Sciences, Inc"
+CASE_0056,1_24cv5907,2024,WBA,"WALGREENS BOOTS ALLIANCE, INC"
+CASE_0057,1_24cv6033,2024,LULU,LULULEMON ATHLETICA INC
+CASE_0058,1_24cv6132,2024,CXM,"Sprinklr, Inc"
+CASE_0059,1_24cv6196,2024,STLA,STELLANTIS N.V
+CASE_0060,1_24cv634,2024,ADM,ARCHER-DANIELS-MIDLAND CO
+CASE_0061,1_24cv6370,2024,STM,STMICROELECTRONICS N.V
+CASE_0062,1_24cv6423,2024,DAVA,"ENDAVA, PLC"
+CASE_0063,1_24cv6511,2024,SAGE,"Sage Therapeutics, Inc"
+CASE_0064,1_24cv655,2024,HUM,Humana Inc
+CASE_0065,1_24cv6571,2024,ODD,ODDITY Tech Ltd
+CASE_0066,1_24cv6952,2024,ALLR,"Allarity Therapeutics, Inc"
+CASE_0067,1_24cv7032,2024,NFE,New Fortress Energy Inc
+CASE_0068,1_24cv7046,2024,IREN,IRIS ENERGY
+CASE_0069,1_24cv739,2024,SSRM,SSR Mining Inc
+CASE_0070,1_24cv747,2024,FOXF,Fox Factory Holding Corp
+CASE_0071,1_24cv7551,2024,GNS,Genius Group Limited
+CASE_0072,1_24cv7602,2024,MYNA,MYNARIC AG
+CASE_0073,1_24cv7696,2024,MEI,"Methode Electronics, Inc"
+CASE_0074,1_24cv7837,2024,XIAOQ,Xiao-I Corporation
+CASE_0075,1_24cv8032,2024,TD,The Toronto-Dominion Bank
+CASE_0076,1_24cv8559,2024,WBA,"Walgreens Boots Alliance, Inc"
+CASE_0077,1_24cv857,2024,CRWD,"CrowdStrike Holdings, Inc"
+CASE_0078,1_24cv8633,2024,HAS,"Hasbro, Inc"
+CASE_0079,1_24cv8636,2024,PACS,"PACS Group, Inc"
+CASE_0080,1_24cv8664,2024,ASML,ASML HOLDING N.V
+CASE_0081,1_24cv8809,2024,XRX,Xerox Holdings Corporation
+CASE_0082,1_24cv8961,2024,ZETA,Zeta Global Holdings Corp
+CASE_0083,1_24cv9027,2024,WBD,"Warner Bros. Discovery, Inc"
+CASE_0084,1_24cv903,2024,NYCB,NEW YORK CO
+CASE_0085,1_24cv904,2024,HUT,Hut 8 Corp
+CASE_0086,1_24cv9083,2024,XRAY,Dentsply Sirona Inc
+CASE_0087,1_24cv9253,2024,ASPI,ASP Isotopes Inc
+CASE_0088,1_24cv954,2024,HUMA,"Humacyte, Inc"
+CASE_0089,1_24cv9715,2024,APLT,"Applied Therapeutics, Inc"
+CASE_0090,1_24cv9964,2024,RIG,Transocean Ltd
+CASE_0091,1_25cv4088,2024,AZN,ASTRAZENECA PLC
+CASE_0092,1_25cv430,2024,CMI,Cummins Inc
+CASE_0093,1_26cv18,2024,WOLF,"Wolfspeed, Inc"
+CASE_0094,25-10879,2024,MMTLP,"Next Bridge Hydrocarbons, Inc"
+CASE_0095,25-1192,2024,IRBT,Robot Corporation
+CASE_0096,25-1292,2024,MBLY,Mobileye Global Inc
+CASE_0097,25-1492,2024,BA,THE BOEING CO
+CASE_0098,25-1752,2024,AVXL,Anavex Life Sciences Corporation
+CASE_0099,25-1831,2024,PERI,Defendant Perion Network Ltd
+CASE_0100,25-20187,2024,NOVA,Sunnova Energy International Inc
+CASE_0101,25-20379,2024,DRCT,"Defendant Direct Digital Holdings, Inc"
+CASE_0102,25-2653,2024,OCGN,Ocugen Inc
+CASE_0103,25-2877,2024,LNC,Lincoln National Corporation
+CASE_0104,25-5364,2024,INTC,Intel Corporation
+CASE_0105,25-5799,2024,AKRO,"Akero Therapeutics, Inc"
+CASE_0106,25-5894,2024,PANW,"Defendant Palo Alto Networks, Inc"
+CASE_0107,26-1075,2024,ARDX,"Ardelyx, Inc"
+CASE_0108,26-1534,2024,ELAN,ELANCO
+CASE_0109,26-1569,2024,ADSK,"Autodesk, Inc"
+CASE_0110,26-3079,2024,MGPI,"MGP Ingredients, Inc"
+CASE_0111,26-346,2024,NNE,"Defendant Nano Nuclear Energy, Inc"
+CASE_0112,2_24cv10153,2024,MTCH,"Match Group, Inc"
+CASE_0113,2_24cv10926,2024,KSPI,JOINT STOCK CO
+CASE_0114,2_24cv1182,2024,PLCE,"The Children's Place, Inc."
+CASE_0115,2_24cv12080,2024,F,FORD MOTOR CO
+CASE_0116,2_24cv1219,2024,INMD,InMode Ltd
+CASE_0117,2_24cv12477,2024,DPZ,"Pizza, Inc"
+CASE_0118,2_24cv13314,2024,SUI,"Sun Communities, Inc"
+CASE_0119,2_24cv1362,2024,SBUX,Starbucks Corporation
+CASE_0120,2_24cv196,2024,DSG,"Sporting Goods, Inc"
+CASE_0121,2_24cv2165,2024,CMP,"Compass Minerals International, Inc"
+CASE_0122,2_24cv239,2024,DADA,DADA NEXUS LIMITED
+CASE_0123,2_24cv2430,2024,MRNS,"Marinus Pharmaceuticals, Inc"
+CASE_0124,2_24cv247,2024,FTFT,Future FinTech Group Inc
+CASE_0125,2_24cv2619,2024,POWW,"AMMO, Inc"
+CASE_0126,2_24cv2630,2024,LUNA,LUNA INNOVATIONS INC
+CASE_0127,2_24cv2932,2024,RLOXY,RENTOKIL INITIAL PLC
+CASE_0128,2_24cv2952,2024,SOND,Sonder Holdings Inc
+CASE_0129,2_24cv3132,2024,SMG,THE SCO
+CASE_0130,2_24cv326,2024,EVVTY,Evolution AB (publ)
+CASE_0131,2_24cv3282,2024,GDRX,"GoodRx Holdings, Inc"
+CASE_0132,2_24cv3638,2024,FIVE,"Five Below, Inc"
+CASE_0133,2_24cv4566,2024,RIVN,"Rivian Automotive, Inc"
+CASE_0134,2_24cv4775,2024,FAT,Fat Brands Inc
+CASE_0135,2_24cv4850,2024,COIN,"Coinbase Global, Inc."
+CASE_0136,2_24cv513,2024,HTZ,"Hertz Global Holdings, Inc"
+CASE_0137,2_24cv5284,2024,TM,Toyota Motor Corporation
+CASE_0138,2_24cv63,2024,MSS,Maison Solutions Inc
+CASE_0139,2_24cv6416,2024,CUBI,"Customers Bancorp, Inc"
+CASE_0140,2_24cv662,2024,RILY,"B. Riley Financial, Inc"
+CASE_0141,2_24cv690,2024,OFIX,Orthofix Medical Inc.
+CASE_0142,2_24cv7553,2024,WBTN,WEBTOON Entertainment Inc
+CASE_0143,2_24cv8959,2024,MAPS,"WM Technology, Inc"
+CASE_0144,2_24cv9510,2024,SUNL,Cross River Bank
+CASE_0145,2_24cv959,2024,BROG,BROOGE ENERGY LIMITED
+CASE_0146,2_24cv9684,2024,TMC,TMC the metals company Inc
+CASE_0147,2_24cv971,2024,INOD,Defendant Innodata Inc
+CASE_0148,3_24cv1034,2024,TDC,Teradata Corporation
+CASE_0149,3_24cv1238,2024,ACHC,"Acadia Healthcare Company, Inc"
+CASE_0150,3_24cv1330,2024,LYFT,"Lyft, Inc"
+CASE_0151,3_24cv1485,2024,DXCM,"DexCom, Inc"
+CASE_0152,3_24cv2656,2024,EQIX,"EQUINIX, INC"
+CASE_0153,3_24cv2778,2024,AXTI,"AXT, Inc"
+CASE_0154,3_24cv334,2024,SHLS,"Shoals Technologies Group, Inc"
+CASE_0155,3_24cv3484,2024,RBLX,"Roblox, Corp"
+CASE_0156,3_24cv35,2024,BIVI,BioVie Inc
+CASE_0157,3_24cv3640,2024,GRTS,"Gritstone bio, Inc"
+CASE_0158,3_24cv371,2024,HRT,HireRight Holdings Corporation
+CASE_0159,3_24cv3869,2024,MAXN,"Maxeon Solar Technologies, Ltd"
+CASE_0160,3_24cv3985,2024,BOLT,"Bolt Biotherapeutics, Inc"
+CASE_0161,3_24cv415,2024,VTYX,"Ventyx Biosciences, Inc"
+CASE_0162,3_24cv4249,2024,ENPH,"Enphase Energy, Inc"
+CASE_0163,3_24cv4775,2024,SPWR,SUNPOWER CORP
+CASE_0164,3_24cv5102,2024,EXTR,"Extreme Networks, Inc"
+CASE_0165,3_24cv554,2024,INDV,INDIVIOR PLC
+CASE_0166,3_24cv5739,2024,ZI,"ZoomInfo Technologies, Inc"
+CASE_0167,3_24cv706,2024,IRTC,"Rhythm Technologies, Inc"
+CASE_0168,3_24cv8683,2024,AEHR,"Aehr Test Systems, Inc"
+CASE_0169,3_24cv898,2024,AMPL,"Amplitude, Inc"
+CASE_0170,3_24cv9413,2024,CRBU,"Caribou Biosciences, Inc"
+CASE_0171,3_24cv974,2024,NKE,"NIKE, Inc"
+CASE_0172,3_25cv113,2024,FLUX,"Flux Power Holdings, Inc"
+CASE_0173,4_24cv2281,2024,DOCS,"Doximity, Inc"
+CASE_0174,4_24cv3170,2024,FSLY,"Fastly, Inc"
+CASE_0175,4_24cv376,2024,GL,Globe Life Inc.
+CASE_0176,4_24cv673,2024,AAL,American Airlines Group Inc
+CASE_0177,4_24cv881,2024,FF,FutureFuel Corp
+CASE_0178,4_24cv8874,2024,MQ,"Marqeta, Inc"
+CASE_0179,4_24cv9038,2024,ENPH,"Enphase Energy, Inc"
+CASE_0180,5_24cv1213,2024,KIND,"Nextdoor, Inc"
+CASE_0181,5_24cv1234,2024,SNOW,Snowflake Inc
+CASE_0182,5_24cv465,2024,CART,MAPLEBEAR INC
+CASE_0183,5_24cv6124,2024,OM,"Outset Medical, Inc"
+CASE_0184,5_24cv6147,2024,SMCI,"Super Micro Computer, Inc"
+CASE_0185,5_24cv6244,2024,GTLB,GitLab Inc
+CASE_0186,5_24cv6765,2024,MGX,Metagenomi Inc
+CASE_0187,5_24cv8220,2024,V,"Visa, Inc"
+CASE_0188,5_24cv8725,2024,FIVN,"Five9, Inc"
+CASE_0189,5_24cv873,2024,XPEL,XPEL Inc
+CASE_0190,5_24cv8869,2024,KYTX,"Kyverna Therapeutics, Inc"
+CASE_0191,5_24cv9467,2024,NXT,Nextracker Inc
+CASE_0192,7_24cv102,2024,ASTS,"AST SpaceMobile, Inc"
+CASE_0193,7_24cv3849,2024,TDOC,"Teladoc Health, Inc"
+CASE_0194,8_24cv1315,2024,ALT,"Altimmune, Inc"
+CASE_0195,8_24cv1723,2024,TWOU,"U, Inc"
+CASE_0196,8_24cv2184,2024,MGNX,"MACROGENICS, INC"
+CASE_0197,8_24cv2221,2024,EW,Edwards Lifesciences Corporation
+CASE_0198,8_24cv2459,2024,CMG,"Chipotle Mexican Grill, Inc"
+CASE_0199,8_24cv285,2024,XPOF,"Xponential Fitness, Inc"
+CASE_0200,8_24cv2900,2024,AILE,"iLearningEngines, Inc."
+CASE_0201,8_24cv385,2024,LTRX,"Lantronix, Inc"
+CASE_0202,9_24cv81191,2024,LLAP,Terran Orbital Corporation
+CASE_0203,9_24cv81428,2024,LILM,LILIUM N.V
+CASE_0204,9_24cv81472,2024,CELH,"Celsius Holdings, Inc"
+CASE_0205,0_25cv4380,2025,TGT,Target Corporation
+CASE_0206,0_25cv61959,2025,FLYY,"Spirit Aviation Holdings, Inc."
+CASE_0207,1_25cv10047,2025,OWL,Blue Owl Capital Inc
+CASE_0208,1_25cv10069,2025,BTDR,Bitdeer Technologies Group
+CASE_0209,1_25cv10179,2025,GAUZ,Gauzy Ltd
+CASE_0210,1_25cv10251,2025,ITGR,Integer Holdings Corporation
+CASE_0211,1_25cv10353,2025,NTLA,INTELLIA THERAPEUTICS
+CASE_0212,1_25cv10385,2025,TMDX,"TransMedics Group, Inc"
+CASE_0213,1_25cv10535,2025,MCTA,"Charming Medical, Limited"
+CASE_0214,1_25cv10565,2025,HUGE,Quantum Biopharma Ltd.
+CASE_0215,1_25cv1058,2025,WBA,"Walgreens Boots Alliance, Inc"
+CASE_0216,1_25cv10620,2025,INSP,"Inspire Medical Systems, Inc."
+CASE_0217,1_25cv1072,2025,NMRA,"Neumora Therapeutics, Inc"
+CASE_0218,1_25cv10988,2025,ZBIO,"Zenas BioPharma, Inc"
+CASE_0219,1_25cv12007,2025,PEPG,PepGen Inc
+CASE_0220,1_25cv12085,2025,REPL,"Replimune Group, Inc"
+CASE_0221,1_25cv1213,2025,IBTA,"Ibotta, Inc"
+CASE_0222,1_25cv124,2025,EPIX,ESSA Pharma Inc
+CASE_0223,1_25cv12672,2025,BAX,"Baxter International, Inc"
+CASE_0224,1_25cv12744,2025,DOW,DOW INC
+CASE_0225,1_25cv13018,2025,JHX,JAMES HARDIE INDUSTRIES PLC
+CASE_0226,1_25cv13530,2025,SRPT,"Sarepta Therapeutics, Inc"
+CASE_0227,1_25cv145,2025,REGN,"Regeneron Pharmaceuticals, Inc"
+CASE_0228,1_25cv160,2025,PPTA,Perpetua Resources Corp
+CASE_0229,1_25cv1812,2025,FLY,Firefly Aerospace Inc
+CASE_0230,1_25cv182,2025,IIPR,"Innovative Industrial Properties, Inc"
+CASE_0231,1_25cv1851,2025,ATKR,Atkore Inc
+CASE_0232,1_25cv1877,2025,CGC,Canopy Growth Corporation
+CASE_0233,1_25cv1883,2025,RC,Ready Capital Corporation
+CASE_0234,1_25cv191,2025,MU,"Micron Technology, Inc"
+CASE_0235,1_25cv1963,2025,DMRC,Digimarc Corporation
+CASE_0236,1_25cv2019,2025,LRN,"Stride, Inc"
+CASE_0237,1_25cv2159,2025,TFII,TFI International Inc
+CASE_0238,1_25cv22574,2025,KNBE,"KnowBe4, Inc"
+CASE_0239,1_25cv2299,2025,TLX,Telix Pharmaceuticals Ltd
+CASE_0240,1_25cv2520,2025,BKKT,"Bakkt Holdings, Inc"
+CASE_0241,1_25cv2553,2025,ATNM,"Actinium Pharmaceuticals, Inc"
+CASE_0242,1_25cv2630,2025,BITF,Bitfarms Ltd
+CASE_0243,1_25cv2770,2025,QMCO,Quantum Corporation
+CASE_0244,1_25cv279,2025,,
+CASE_0245,1_25cv2835,2025,ECG,"Everus Construction Group, Inc"
+CASE_0246,1_25cv2878,2025,VFC,V.F. Corporation
+CASE_0247,1_25cv296,2025,NPWR,NET Power Inc
+CASE_0248,1_25cv306,2025,MODV,"ModivCare, Inc"
+CASE_0249,1_25cv341,2025,NEM,Newmont Corporation
+CASE_0250,1_25cv3602,2025,KMX,"CarMax, Inc"
+CASE_0251,1_25cv3799,2025,UNH,UNITEDHEALTH
+CASE_0252,1_25cv4110,2025,FLYW,Flywire Corporation
+CASE_0253,1_25cv417,2025,CERV,"Defendants Cerevel Therapeutics Holdings, Inc"
+CASE_0254,1_25cv4332,2025,DV,"DoubleVerify Holdings, Inc"
+CASE_0255,1_25cv444,2025,FLNC,"Defendant Fluence Energy, Inc"
+CASE_0256,1_25cv4630,2025,FTRE,"Fortrea Holdings, Inc"
+CASE_0257,1_25cv4642,2025,VG,"Venture Global, Inc"
+CASE_0258,1_25cv4708,2025,RBGLY,RECKITT BENCKISER GROUP
+CASE_0259,1_25cv4844,2025,VSTS,Vestis Corporation
+CASE_0260,1_25cv5017,2025,FLYE,"Fly-E Group, Inc"
+CASE_0261,1_25cv541,2025,FTAI,FTAI Aviation Ltd
+CASE_0262,1_25cv5563,2025,IRBT,Robot Corporation
+CASE_0263,1_25cv5659,2025,CNC,Centene Corporation
+CASE_0264,1_25cv6028,2025,RMJAX,"James Alpha Funds Trust d/b/a Easterly Funds Trust, Managed Portfolio Series"
+CASE_0265,1_25cv6094,2025,FISV,"Fiserv, Inc"
+CASE_0266,1_25cv6197,2025,LMT,Lockheed Martin Corporation
+CASE_0267,1_25cv623,2025,BBAI,"BigBear.ai Holdings, Inc"
+CASE_0268,1_25cv650,2025,LPRO,Open Lending Corporation
+CASE_0269,1_25cv6534,2025,TEM,"Tempus AI, Inc"
+CASE_0270,1_25cv6620,2025,SLQT,"SelectQuote, Inc"
+CASE_0271,1_25cv6637,2025,DEFT,DEFI TECHNOLOGIES
+CASE_0272,1_25cv6747,2025,CHTR,"Charter Communications, Inc"
+CASE_0273,1_25cv7033,2025,KLAR,KLARNA GROUP
+CASE_0274,1_25cv7167,2025,AGL,AGILON HEALTH
+CASE_0275,1_25cv734,2025,DDD,D Systems Corporation
+CASE_0276,1_25cv7491,2025,LNTH,"Lantheus Holdings, Inc"
+CASE_0277,1_25cv785,2025,ESTC,ELASTIC N.V
+CASE_0278,1_25cv802,2025,NEOG,Neogen Corporation
+CASE_0279,1_25cv8365,2025,WPP,WPP PLC
+CASE_0280,1_25cv8368,2025,MRX,MAREX GROUP
+CASE_0281,1_25cv861,2025,MSTR,MICROSTRATEGY INC
+CASE_0282,1_25cv8612,2025,MLTX,MOONLAKE IMMUNOTHERAPEUTICS
+CASE_0283,1_25cv863,2025,ACDC,Arconic Corporation
+CASE_0284,1_25cv889,2025,TIXT,TELUS INTERNATIONAL
+CASE_0285,1_25cv8912,2025,DXCM,"DexCom, Inc"
+CASE_0286,1_25cv913,2025,ZYXI,"Zynex, Inc"
+CASE_0287,1_25cv9153,2025,LFMD,"LifeMD, Inc"
+CASE_0288,1_25cv923,2025,ELV,"Elevance Health, Inc"
+CASE_0289,1_25cv9596,2025,PRGO,Perrigo Company PLC
+CASE_0290,1_25cv96,2025,CROX,"Crocs, Inc"
+CASE_0291,1_25cv9662,2025,JYD,Jayud Global Logistics Ltd
+CASE_0292,1_25cv9776,2025,STUB,"StubHub Holdings, Inc"
+CASE_0293,1_25cv992,2025,MANH,"Manhattan Associates, Inc"
+CASE_0294,1_26cv215,2025,AVTR,"Avantor, Inc"
+CASE_0295,1_26cv3672,2025,FI,"Fiserv, Inc"
+CASE_0296,26-1500,2025,PCRX,"Pacira Biosciences, Inc"
+CASE_0297,26-1958,2025,BIOA,"BioAge Labs, Inc"
+CASE_0298,26-2980,2025,EIX,Edison International
+CASE_0299,26-764,2025,IAS,Integral Ad Science Holding Corp
+CASE_0300,2_25cv11319,2025,ARE,"Alexandria Real Estate Equities, Inc"
+CASE_0301,2_25cv1154,2025,EIX,Edison International
+CASE_0302,2_25cv1187,2025,MULN,"Mullen Automotive, Inc"
+CASE_0303,2_25cv1208,2025,MRK,"Merck & Co., Inc"
+CASE_0304,2_25cv12383,2025,LINE,"Lineage, Inc"
+CASE_0305,2_25cv1263,2025,ALAR,Alarum Technologies Ltd
+CASE_0306,2_25cv1396,2025,TTD,"The Trade Desk, Inc"
+CASE_0307,2_25cv1457,2025,QCI,Quantum Computing Inc
+CASE_0308,2_25cv1474,2025,SMTC,Semtech Corporation
+CASE_0309,2_25cv1733,2025,RKLB,"Rocket Lab USA, Inc"
+CASE_0310,2_25cv18834,2025,SLM,SLM Corporation
+CASE_0311,2_25cv220,2025,MPWR,"Monolithic Power Systems, Inc"
+CASE_0312,2_25cv2285,2025,WST,"West Pharmaceutical Services, Inc"
+CASE_0313,2_25cv2308,2025,NSSC,"Napco Security Technologies, Inc"
+CASE_0314,2_25cv2619,2025,FFIV,"F5, Inc"
+CASE_0315,2_25cv3332,2025,CAR,"Avis Budget Group, Inc"
+CASE_0316,2_25cv3791,2025,CIVI,"Civitas Resources, Inc"
+CASE_0317,2_25cv4243,2025,FCX,Freeport-McMoRan Inc
+CASE_0318,2_25cv4416,2025,SFM,"Sprouts Farmers Market, Inc"
+CASE_0319,2_25cv466,2025,VTRS,Viatris Inc
+CASE_0320,2_25cv512,2025,SANA,"Sana Biotechnology, Inc"
+CASE_0321,2_25cv5147,2025,SVRA,Savara Inc
+CASE_0322,2_25cv5322,2025,OGN,Organon & Co
+CASE_0323,2_25cv5427,2025,RCAT,"Red Cat Holdings, Inc"
+CASE_0324,2_25cv618,2025,GSK,GSK PLC
+CASE_0325,2_25cv6869,2025,SOC,Sable Offshore Corp
+CASE_0326,2_25cv763,2025,ICLR,ICON plc
+CASE_0327,2_25cv771,2025,FMC,FMC Corporation
+CASE_0328,2_25cv7844,2025,SNAP,"Snap, Inc"
+CASE_0329,2_25cv840,2025,PSNY,POLESTAR AUTOMOTIVE
+CASE_0330,2_25cv9461,2025,MOH,"Molina Healthcare, Inc"
+CASE_0331,2_26cv246,2025,,"Western Asset Management Company, LLC"
+CASE_0332,2_26cv47,2025,CPNG,"Coupang, Inc"
+CASE_0333,3_25cv10049,2025,RCKT,"Rocket Pharmaceuticals, Inc"
+CASE_0334,3_25cv1120,2025,BHVN,Biohaven Ltd
+CASE_0335,3_25cv14045,2025,NVO,Novo Nordisk A/S
+CASE_0336,3_25cv1424,2025,KLC,"KinderCare Learning Companies, Inc"
+CASE_0337,3_25cv1441,2025,TROX,TRONOX HOLDINGS
+CASE_0338,3_25cv1667,2025,WOOF,"Petco Health and Wellness Company, Inc"
+CASE_0339,3_25cv1755,2025,XIFR,XPLR INFRASTRUCTURE
+CASE_0340,3_25cv18,2025,RVNC,"Revance Therapeutics, Inc"
+CASE_0341,3_25cv1815,2025,CAPR,"Capricor Therapeutics, Inc"
+CASE_0342,3_25cv2496,2025,FLR,Fluor Corporation
+CASE_0343,3_25cv2507,2025,GERN,Geron Corporation
+CASE_0344,3_25cv2681,2025,ATYR,Tyr Pharma Inc
+CASE_0345,3_25cv2768,2025,UCTT,"Ultra Clean Holdings, Inc"
+CASE_0346,3_25cv2915,2025,SOUN,"SoundHound AI, Inc"
+CASE_0347,3_25cv3177,2025,SKYE,"Skye Bioscience, Inc"
+CASE_0348,3_25cv332,2025,DNUT,"Krispy Kreme, Inc"
+CASE_0349,3_25cv390,2025,TMCI,"Treace Medical Concepts, Inc"
+CASE_0350,3_25cv499,2025,MRVI,"Maravai LifeSciences Holdings, Inc"
+CASE_0351,3_25cv5144,2025,RDDT,"Reddit, Inc"
+CASE_0352,3_25cv5315,2025,HIMS,"Hims & Hers Health, Inc"
+CASE_0353,3_25cv6088,2025,URGN,UroGen Pharma Ltd
+CASE_0354,3_25cv6923,2025,UNCY,"Unicycive Therapeutics, Inc"
+CASE_0355,3_25cv7067,2025,PUBM,"PubMatic, Inc"
+CASE_0356,3_25cv7129,2025,AI,"C3.ai, Inc"
+CASE_0357,3_25cv713,2025,NVO,Novo Nordisk A/S
+CASE_0358,3_25cv779,2025,DMRC,Digimarc Corporation
+CASE_0359,3_25cv7923,2025,CYTK,"CYTOKINETICS, INC"
+CASE_0360,3_25cv8037,2025,FTNT,"Fortinet, Inc"
+CASE_0361,4_25cv10386,2025,CPTN,"Cepton, Inc"
+CASE_0362,4_25cv1234,2025,EU,Core Energy Corp
+CASE_0363,4_25cv1455,2025,SEI,"Solaris Energy Infrastructure, Inc"
+CASE_0364,4_25cv2772,2025,APP,AppLovin Corporation
+CASE_0365,4_25cv3999,2025,NUTX,Nutex Health Inc
+CASE_0366,4_25cv4453,2025,NX,Quanex Building Products Corporation
+CASE_0367,4_25cv4464,2025,KBR,"KBR, Inc"
+CASE_0368,4_25cv4477,2025,RICK,"RCI Hospitality Holdings, Inc"
+CASE_0369,4_25cv957,2025,GO,Grocery Outlet Holding Corp
+CASE_0370,5_25cv2316,2025,ELF,"Beauty, Inc"
+CASE_0371,5_25cv4177,2025,IOVA,"Iovance Biotherapeutics, Inc"
+CASE_0372,5_25cv6105,2025,ANRO,"Alto Neuroscience, Inc"
+CASE_0373,5_25cv6252,2025,AAPL,Apple Inc
+CASE_0374,5_25cv642,2025,SQ,"Block, Inc"
+CASE_0375,5_25cv7303,2025,SMLR,"Semler Scientific, Inc"
+CASE_0376,5_25cv8010,2025,JSPR,"Jasper Therapeutics, Inc"
+CASE_0377,5_25cv9410,2025,SNPS,"Synopsys, Inc"
+CASE_0378,6_25cv1384,2025,LAZR,"Luminar Technologies, Inc"
+CASE_0379,6_25cv1516,2025,CTO,"CTO Realty Growth, Inc"
+CASE_0380,6_25cv6107,2025,STZ,"Constellation Brands, Inc"
+CASE_0381,8_25cv1596,2025,RXST,"RxSight, Inc"
+CASE_0382,8_25cv2581,2025,ALT,"Altimmune, Inc"
+CASE_0383,8_25cv3328,2025,PRMB,Primo Brands Corporation
+CASE_0384,8_25cv411,2025,SWKS,"Skyworks Solutions, Inc"
+CASE_0385,8_25cv981,2025,CODI,"Compass Group Diversified Holdings, LLC, and Compass Diversified Holdings"
+CASE_0386,9_25cv80334,2025,NEP,XPLR INFRASTRUCTURE
+CASE_0387,10128_3_18cv11438,archive,ESPR,"Esperion Therapeutics, Inc."
+CASE_0388,10136_1_10cv1277,archive,,
+CASE_0389,10143_1_14cv443,archive,GT,GT Advanced Technologies Inc.
+CASE_0390,10144_1_14cv7126,archive,,
+CASE_0391,10148_1_12md2389,archive,FB,"Facebook, Inc."
+CASE_0392,10150_2_17cv4776,archive,AGN,"Valeant Pharmaceuticals International, Inc."
+CASE_0393,10192_8_18cv832,archive,INWK,"InnerWorkings, Inc."
+CASE_0394,10195_2_19cv362,archive,KLIC,"Kulicke and Soffa Industries, Inc."
+CASE_0395,10197_3_02-cv-01152,archive,,
+CASE_0396,10206_1_07cv1757,archive,,
+CASE_0397,10222_1_08cv3462,archive,INAP,Internap Network Services Corp.
+CASE_0398,10239_1_08cv5310,archive,,
+CASE_0399,10243_10-MD-02185,archive,BP,BP p.l.c.
+CASE_0400,10244_4_12cv900,archive,APC,Anadarko Petroleum Corporation
+CASE_0401,10273_1_11cv2400-RWS,archive,EBIX,"Ebix, Inc."
+CASE_0402,10276_3_11cv2098,archive,PNSN,"Penson Worldwide, Inc."
+CASE_0403,10293_7368,archive,,
+CASE_0404,10297_1_12md2389,archive,FB,"Facebook, Inc."
+CASE_0405,10308_4_12cv4677,archive,,"Ubiquiti Networks, Inc."
+CASE_0406,10332_37-2013-00060593-CU-BT-CTL,archive,,
+CASE_0407,10333_8784,archive,,Erickson Incorporated
+CASE_0408,10334_4_15cv12,archive,,"Mard, Inc. f/k/a KiOR, Inc."
+CASE_0409,10363_2014-1-CV-266866,archive,,
+CASE_0410,10364_9_14cv81057,archive,,
+CASE_0411,10366_4_14cv3998,archive,,
+CASE_0412,10368_9_14cv81156,archive,ASPS,Altisource Portfolio Solutions S.A.
+CASE_0413,10374_1_14cv8925,archive,,"Salix Pharmaceuticals, Ltd."
+CASE_0414,10379_2_14cv9959,archive,,"Hampden Bancorp, Inc."
+CASE_0415,10389_2_15cv1862,archive,,Lentuo International Inc.
+CASE_0416,10393_CIV533203,archive,,"Castlight Health, Inc."
+CASE_0417,10394_2_15cv3474,archive,AMPH,"Ampio Pharmaceuticals, Inc."
+CASE_0418,10397_1_15CV7894,archive,CFO,China Finance Online Co. Limited
+CASE_0419,10401_2_15cv7548,archive,,"Sientra, Inc."
+CASE_0420,10404_1_15cv8954,archive,,New Source Energy Partners L.P.
+CASE_0421,10406_1_15cv1140,archive,,
+CASE_0422,10407_5_15cv5841,archive,,"KaloBios Pharmaceuticals, Inc."
+CASE_0423,10412_1_16md2742,archive,,"Vivint Solar, Inc."
+CASE_0424,10423_1_13cv2811,archive,,Barclays PLC
+CASE_0425,10424_2_15cv8051,archive,STRP,"Straight Path Communications, Inc."
+CASE_0426,10432_1_12cv3419,archive,,"The Bank of Tokyo-Mitsubishi UFJ, Ltd."
+CASE_0427,10433_1_18cv6425,archive,PRTA,Prothena Corporation PLC
+CASE_0428,10439_2_18cv4231,archive,PPG,"PPG Industries, Inc."
+CASE_0429,10440_9_18cv80668,archive,ADT,ADT Inc.
+CASE_0430,10443_1_18cv889,archive,,
+CASE_0431,10472_3_18cv1338,archive,FLR,Fluor Corporation
+CASE_0432,10474_2_18cv2279,archive,RECRO,"Recro Pharma, Inc."
+CASE_0433,10478_3_18cv1160,archive,MBVX,"MabVax Therapeutics Holdings, Inc."
+CASE_0434,10482_1_18cv4993,archive,ANW,AEGEAN MARINE PETROLEUM NETWORK INC.
+CASE_0435,10483_1_18cv5104,archive,DB,Deutsche Bank Aktiengesellschaft
+CASE_0436,10484_2_18cv5095,archive,REVG,"REV Group, Inc."
+CASE_0437,10486_4_17cv7142,archive,AQMS,"Aqua Metals, Inc."
+CASE_0438,10492_3_18cv271,archive,ORA,"ORMAT TECHNOLOGIES, INC."
+CASE_0439,10493_5_18cv3509,archive,PCG,PG&E Corporation
+CASE_0440,10495_2_18cv7469,archive,FAT,"FAT Brands, Inc."
+CASE_0441,10497_20-5710,archive,,
+CASE_0442,10498_2_18cv10521,archive,AKERS,"AKERS BIOSCIENCES, INC."
+CASE_0443,10500_20-56178,archive,QCOM,QUALCOMM Incorporated
+CASE_0444,10502_1_18cv5480,archive,TAL,TAL Education Group
+CASE_0445,10504_1_18cv5493,archive,FLKS,"Flex Pharma, Inc."
+CASE_0446,10508_20-1292,archive,,
+CASE_0447,10510_5_18cv3712,archive,HAIR,"Restoration Robotics, Inc."
+CASE_0448,10513_1_16cv3893,archive,,Ability Inc.
+CASE_0449,10519_1_18cv4764,archive,MFGP,Micro Focus International PLC
+CASE_0450,10521_2_18cv510,archive,COOL,"PolarityTE, Inc."
+CASE_0451,10522_1_18cv3721,archive,SBGL,Sibanye Gold Limited
+CASE_0452,10523_1_18cv4473,archive,,
+CASE_0453,10546_BC624918,archive,,Code Rebel Corporation
+CASE_0454,10547_5_17cv373,archive,YHOO,Yahoo! Inc.
+CASE_0455,10548_1_05cv4724,archive,,
+CASE_0456,10553_2_18cv11477,archive,GLCNF,Glencore PLC
+CASE_0457,10554_1_18cv11434,archive,MRCY,"Mercury Systems, Inc."
+CASE_0458,10555_0_18cv61572,archive,MD,"MEDNAX, INC."
+CASE_0459,10556_1_18cv1771,archive,FPI,Farmland Partners Inc.
+CASE_0460,10620_No VID 972,archive,,
+CASE_0461,10621_No VID 972,archive,,
+CASE_0462,10637_0_18cv61631,archive,FIZZ,National Beverage Corp.
+CASE_0463,10640_2_11cv6460,archive,,
+CASE_0464,10641_4_17cv3400,archive,AVGR,"Avinger, Inc."
+CASE_0465,10642_3-17791,archive,OFIX,Orthofix International N.V.
+CASE_0466,10644_1_17cv2583,archive,AMMA,"Alliance MMA, Inc."
+CASE_0467,10655_3_18cv1647,archive,ACAD,ACADIA Pharmaceuticals Inc.
+CASE_0468,10661_1_18cv6656,archive,VUZI,Vuzix Corporation
+CASE_0469,10667_19-3063,archive,,
+CASE_0470,10668_1_18cv6965,archive,HMNY,Helios And Matheson Analytics Inc.
+CASE_0471,10669_1_19cv11282,archive,TPHA,"Tetraphase Pharmaceuticals, Inc."
+CASE_0472,10670_1_18cv04253,archive,RMTI,"Rockwell Medical, Inc."
+CASE_0473,10673_1_18cv2445,archive,SBGI,"Sinclair Broadcast Group, Inc."
+CASE_0474,10674_1_18cv12330,archive,LOGM,"LogMeIn, Inc."
+CASE_0475,10679_10697-VCS,archive,,"Saba Software, Inc."
+CASE_0476,10681_1_10cv990,archive,WL,Wilmington Trust Corporation
+CASE_0477,10682_7_12cv23,archive,,"TranS1, Inc."
+CASE_0478,10683_1_18cv6960,archive,GDS,GDS Holdings Limited
+CASE_0479,10685_11md2262,archive,,
+CASE_0480,10687_BC712865,archive,CLNY,"Colony Capital, Inc."
+CASE_0481,10689_1_18cv7143,archive,NLSN,Nielsen Holdings PLC
+CASE_0482,10690_3_18cv2067,archive,ZN,"Zion Oil & Gas, Inc."
+CASE_0483,10692_5_18cv4844,archive,ORCL,Oracle Corporation
+CASE_0484,10702_23-16010,archive,TSLA,"Tesla, Inc."
+CASE_0485,10705_20-1423,archive,PDD,Pinduoduo Inc.
+CASE_0486,10707_3_18cv5181,archive,NVRO,Nevro Corp.
+CASE_0487,10709_2_18cv1602,archive,CVSI,"CV Sciences, Inc."
+CASE_0488,10710_2_18cv7476,archive,AMPE,"Ampio Pharmaceuticals, Inc."
+CASE_0489,10716_2_18cv3635,archive,LCI,"Lannett Company, Inc."
+CASE_0490,10721_1_18cv7927,archive,PZZA,"Papa John's International, Inc."
+CASE_0491,10725_3_16cv03044,archive,ILMN,"Illumina, Inc."
+CASE_0492,10726_3_18cv3948,archive,WFC,Wells Fargo & Company
+CASE_0493,10727_1_18cv873,archive,SGYP,Synergy Pharmaceuticals Inc.
+CASE_0494,10728_2_17cv1868,archive,ESSI,"Eco Science Solutions, Inc."
+CASE_0495,10729_1_15cv9188,archive,JPM,"JPMorgan Chase Bank, N.A."
+CASE_0496,10730_1_14cv7126,archive,,BANK OF AMERICA CORPORATION
+CASE_0497,10731_2_17cv2025,archive,WAL,Walter Investment Management Corp.
+CASE_0498,10733_CV2016-002718,archive,,Inventure Foods Inc.
+CASE_0499,10734_1_15cv711,archive,,"LRR Energy, L.P."
+CASE_0500,10735_16CV32458,archive,RENT,Rentrak Corporation
+CASE_0501,10737_2_16cv7991,archive,,Opus Bank
+CASE_0502,10740_3_15cv1455,archive,SNDK,SanDisk Corporation
+CASE_0503,10742_1_18cv8039,archive,SKX,"Skechers USA, Inc."
+CASE_0504,10743_1_18cv08047,archive,CRON,Cronos Group Inc.
+CASE_0505,10747_21-2546,archive,PM,Philip Morris International Inc.
+CASE_0506,10755_2_18cv13860,archive,USAT,"USA Technologies, Inc."
+CASE_0507,10757_20-3231,archive,DNKEY,Danske Bank A/S
+CASE_0508,10764_2_18cv2914,archive,MCHP,Microchip Technology Inc.
+CASE_0509,10765_1_18cv02979,archive,SYNC,"Synacor, Inc."
+CASE_0510,10766_1_16cv4923,archive,INOV,"Inovalon Holdings, Inc."
+CASE_0511,10767_0_18cv3097,archive,APOG,"Apogee Enterprises, Inc."
+CASE_0512,10768_2_18cv14091,archive,COCP,"Cocrystal Pharma, Inc."
+CASE_0513,10773_2_18cv1758,archive,ALGT,Allegiant Travel Company
+CASE_0514,10774_2_18-cv-08225,archive,ABBV,AbbVie Inc.
+CASE_0515,10776_2_15cv4003,archive,,Yingli Green Energy Holding Company Limited
+CASE_0516,10777_2_14cv2066,archive,UTIW,UTi Worldwide Inc.
+CASE_0517,10778_0_13cv1686,archive,MDT,"Medtronic, Inc."
+CASE_0518,10779_1_18-cv-09104,archive,TGTX,"TG Therapeutics, Inc."
+CASE_0519,10780_1_15cv5754,archive,EBR,Centrais Elétricas Brasileiras S.A. – Eletrobras
+CASE_0520,10783_1_18cv12433,archive,ALNY,"Alnylam Pharmaceuticals, Inc."
+CASE_0521,10787_2_18cv14380,archive,MGTI,"MGT Capital Investments, Inc."
+CASE_0522,10788_2_17cv579,archive,X,United States Steel Corporation
+CASE_0523,10789_1_18cv543,archive,HAS,"Hasbro, Inc."
+CASE_0524,10790_1_18cv14385,archive,CPB,Campbell Soup Company
+CASE_0525,10791_3_18cv5956,archive,CHGG,"Chegg, Inc."
+CASE_0526,10792_3_18cv988,archive,ACHC,"Acadia Healthcare Company, Inc."
+CASE_0527,10793_4_19cv3464,archive,VNTR,Venator Materials PLC
+CASE_0528,10796_1_18cv9848,archive,JT,Jianpu Technology Inc.
+CASE_0529,10798_20-3846,archive,ADNT,Adient plc
+CASE_0530,10808_20-35821,archive,COST,Costco Wholesale Corporation
+CASE_0531,10809_2_16cv1229,archive,,Joy Global Inc.
+CASE_0532,10810_3_16cv5479,archive,WFC,Wells Fargo & Company
+CASE_0533,10812_2_18cv4378,archive,TRVN,"Trevena, Inc."
+CASE_0534,10816_2_18cv08633,archive,HTHT,Huazhu Group Ltd.
+CASE_0535,10819_21-16837,archive,SFIX,"Stitch Fix, Inc."
+CASE_0536,10820_4_18cv7018,archive,GOOGL,"Alphabet, Inc."
+CASE_0537,10824_2_18cv8616,archive,NXTTF,Namaste Technologies Inc.
+CASE_0538,10830_3_19cv178,archive,SPB,"Spectrum Brands Legacy, Inc."
+CASE_0539,10834_2_18cv10696,archive,YOGA,"YogaWorks, Inc."
+CASE_0540,10843_2_17cv3679,archive,SNAP,Snap Inc.
+CASE_0541,10854_1_18cv7030,archive,CWH,"Camping World Holdings, Inc."
+CASE_0542,10857_9_18cv81448,archive,DY,"Dycom Industries, Inc."
+CASE_0543,10861_1_19cv124,archive,MAXR,Maxar Technologies Inc.
+CASE_0544,10862_1_18cv6716,archive,PPDF,PPDAI GROUP INC.
+CASE_0545,10863_1_18cv7253,archive,XRAY,"DENTSPLY SIRONA, INC."
+CASE_0546,10864_1_16cv1884,archive,,Amaya Inc.
+CASE_0547,10865_5_13cv1920,archive,ISRG,"Intuitive Surgical, Inc."
+CASE_0548,10866_1_15cv24440,archive,ERB,"ERBA Diagnostics, Inc."
+CASE_0549,10867_1_14-cv-01740,archive,,"America West Resources, Inc."
+CASE_0550,10868_1_17cv917,archive,,Kitov Pharmaceuticals Holdings Ltd.
+CASE_0551,10870_CIV538215,archive,RUN,Sunrun Inc.
+CASE_0552,10871_18CV329690,archive,VECO,"Veeco Instruments, Inc."
+CASE_0553,10879_1_14cv3251,archive,,Och-Ziff Capital Management Group LLC
+CASE_0554,10881_3_16-cv-00783,archive,SC,SANTANDER CONSUMER USA HOLDINGS INC.
+CASE_0555,10885_5_17cv00753,archive,GSB,"GlobalSCAPE, Inc."
+CASE_0556,10889_1_15cv9185,archive,C,"Citigroup, Inc."
+CASE_0557,10899_8_18cv3396,archive,IGC,"INDIA GLOBALIZATION CAPITAL, INC."
+CASE_0558,10902_3_18cv6720,archive,ALGN,"Align Technology, Inc."
+CASE_0559,10906_21-15170,archive,NKTR,Nektar Therapeutics
+CASE_0560,10912_20-16033,archive,FIT,"Fitbit, Inc."
+CASE_0561,10916_20-11285,archive,WBT,"WELBILT, INC."
+CASE_0562,10917_3_18cv1818,archive,SYF,Synchrony Financial
+CASE_0563,10919_1_18cv10330,archive,RYAAY,Ryanair Holdings PLC
+CASE_0564,10920_18C1303,archive,,
+CASE_0565,10921_1_18cv10320,archive,AQUA,Evoqua Water Technologies Corp.
+CASE_0566,10922_1_18cv11071,archive,GSKY,"GreenSky, Inc."
+CASE_0567,10928_1_18cv7537,archive,MGI,"MoneyGram International, Inc."
+CASE_0568,10931_1_18cv12084,archive,GS,"The Goldman Sachs Group, Inc."
+CASE_0569,10932_1_18cv1577,archive,ULTA,"Ulta Beauty, Inc."
+CASE_0570,10933_1_18cv3608,archive,MIC,Macquarie Infrastructure Corporation
+CASE_0571,10934_4_18cv1523,archive,WAGE,"WageWorks, Inc."
+CASE_0572,10935_2_18cv2612,archive,TRUE,"TrueCar, Inc."
+CASE_0573,10936_1_18cv2268,archive,XIV,Credit Suisse Group AG
+CASE_0574,10937_3_18cv6525,archive,MCK,McKesson Corporation
+CASE_0575,10938_18CIV06049,archive,MNLO,Menlo Therapeutics Inc.
+CASE_0576,10942_4_18cv3544,archive,AAOI,"Applied Optoelectronics, Inc."
+CASE_0577,10943_1_18cv2435,archive,VIX,"CBOE Global Markets, Inc."
+CASE_0578,10945_1_18cv6601,archive,ATUS,"Altice USA, Inc."
+CASE_0579,10946_1_19cv11174,archive,UEPS,"NET 1 UEPS TECHNOLOGIES, INC."
+CASE_0580,10948_3_19cv958,archive,PSMT,"PriceSmart, Inc."
+CASE_0581,10949_2_17-cv-01479,archive,,"Global Eagle Entertainment, Inc."
+CASE_0582,10950_1_16cv4531,archive,CARD,CPI Card Group Inc.
+CASE_0583,10951_1_15cv3562,archive,,"Osiris Therapeutics, Inc."
+CASE_0584,10953_25-20147,archive,MDR,"McDermott International, Inc."
+CASE_0585,10954_8_16cv2625,archive,EBS,Emergent BioSolutions Inc.
+CASE_0586,10955_3_15cv4030,archive,,United Development Funding IV
+CASE_0587,10956_1_17cv2828,archive,CGIP,"Celadon Group, Inc."
+CASE_0588,10957_CV-17-584809-00CP,archive,,Concordia International Corp.
+CASE_0589,10961_3_18cv1368,archive,NSANY,"Nissan Motor Co., Ltd."
+CASE_0590,10972_1_18cv6801,archive,TX,Ternium S.A.
+CASE_0591,10973_1_18cv7059,archive,TS,Tenaris S.A.
+CASE_0592,10974_1_18-cv-07853,archive,BA,THE BOEING COMPANY
+CASE_0593,10975_1_18cv06845,archive,MAR,"Marriott International, Inc."
+CASE_0594,10976_1_18cv11184,archive,CMCM,Cheetah Mobile Inc.
+CASE_0595,10977_1_18cv11376,archive,APHA,Aphria Inc.
+CASE_0596,10978_RIC 1817493,archive,,
+CASE_0597,10979_2_18cv02662,archive,CURO,CURO GROUP HOLDINGS CORP.
+CASE_0598,10980_20-1857,archive,,"Santander Securities, L.L.C."
+CASE_0599,10981_24-1409,archive,JNJ,Johnson & Johnson
+CASE_0600,10982_1_17cv8457,archive,GE,General Electric Company
+CASE_0601,10983_21-291,archive,MET,"MetLife, Inc."
+CASE_0602,10984_1_18cv1428,archive,HSIC,"Henry Schein, Inc."
+CASE_0603,10985_22-10633,archive,MDXG,"MiMedx Group, Inc."
+CASE_0604,10986_1_18cv2213,archive,BRFS,BRF S.A.
+CASE_0605,10987_1_18cv1979,archive,TV,"Grupo Televisa, S.A.B."
+CASE_0606,10988_1_18cv3021,archive,ERIC,Telefonaktiebolaget LM Ericsson
+CASE_0607,10989_1_18cv1620,archive,UBNT,"Ubiquiti Networks, Inc."
+CASE_0608,10990_0_18cv871,archive,PTSI,"Patterson Companies, Inc."
+CASE_0609,10991_2_17cv8841,archive,OSIS,"OSI Systems, Inc."
+CASE_0610,10992_2_18cv479,archive,WYNN,Wynn Resorts Limited
+CASE_0611,10993_20-4185,archive,OHRP,"Ohr Pharmaceutical, Inc."
+CASE_0612,10994_19-2162,archive,TCAP,Triangle Capital Corporation
+CASE_0613,10995_2_18cv00336,archive,MYGN,"Myriad Genetics, Inc."
+CASE_0614,10996_1_18cv2352,archive,CX,"Cemex, S.A.B. de C.V."
+CASE_0615,10997_2_18cv3579,archive,MOH,"Molina Healthcare, Inc."
+CASE_0616,10998_2_18cv4772,archive,CELG,Celgene Corporation
+CASE_0617,10999_3_18cv878,archive,BMY,Bristol-Myers Squibb Company
+CASE_0618,11000_1_17cv9178,archive,ALKS,Alkermes plc
+CASE_0619,11001_20-16603,archive,LC,LendingClub Corporation
+CASE_0620,11003_1_17cv10014,archive,CS,Credit Suisse Group AG
+CASE_0621,11004_1_18cv2463,archive,GAME,Shanda Games Limited
+CASE_0622,11005_1_18cv2140,archive,AYI,"Acuity Brands, Inc."
+CASE_0623,11006_3_18cv96,archive,CPTA,Capitala Finance Corp.
+CASE_0624,11007_19-16157,archive,ATEN,"A10 Networks, Inc."
+CASE_0625,11008_4_18cv2517,archive,QNST,"QuinStreet, Inc."
+CASE_0626,11009_2_17cv12188,archive,KATFF,Katanga Mining Limited
+CASE_0627,11010_2_18cv5612,archive,CGIX,"Cancer Genetics, Inc."
+CASE_0628,11011_1_17cv774,archive,VIVO,"Meridian Bioscience, Inc."
+CASE_0629,11012_3_18cv923,archive,QTM,"Quantum, Inc."
+CASE_0630,11013_20-652,archive,TAX,"Liberty Tax, Inc."
+CASE_0631,11014_1_17cv2789,archive,ARRY,Array Biopharma Inc.
+CASE_0632,11015_2_18cv1355,archive,,
+CASE_0633,11016_1_18cv1137,archive,BLDP,Ballard Power Systems Inc.
+CASE_0634,11018_2_17cv13504,archive,PM,Philip Morris International Inc.
+CASE_0635,11019_4_18cv838,archive,SMCI,"Super Micro Computer, Inc."
+CASE_0636,11020_1_18cv1492,archive,FL,"Foot Locker, Inc."
+CASE_0637,11021_1_17cv999,archive,NOVN,"Novan, Inc."
+CASE_0638,11022_1_18cv212,archive,AAP,"Advance Auto Parts, Inc."
+CASE_0639,11023_1_18cv299,archive,AMC,"AMC Entertainment Holdings, Inc."
+CASE_0640,11024_21-15050,archive,FLEX,Flex Ltd.
+CASE_0641,11025_22-15077,archive,FB,"Facebook, Inc."
+CASE_0642,11026_1_18cv1640,archive,CX,"Cemex, S.A.B. de C.V."
+CASE_0643,11027_2_18cv2888,archive,CLNS,"Colony NorthStar, Inc."
+CASE_0644,11028_3_17cv1469,archive,TVTY,"Tivity Health, Inc."
+CASE_0645,11029_4_18cv96,archive,NQ,NQ Mobile Inc.
+CASE_0646,11030_1_17cv8983,archive,OHI,"Omega Healthcare Investors, Inc."
+CASE_0647,11031_4_18cv338,archive,BLCM,"Bellicum Pharmaceuticals, Inc."
+CASE_0648,11032_21-2309,archive,INCR,"Syneos Health, Inc."
+CASE_0649,11033_5_18cv321,archive,AMD,"Advanced Micro Devices, Inc."
+CASE_0650,11034_4_18cv507,archive,INTC,Intel Corporation
+CASE_0651,11035_21-955,archive,ACET,Aceto Corporation
+CASE_0652,11041_1_18cv467,archive,XNET,Xunlei Limited
+CASE_0653,11042_4_18cv591,archive,OHRP,"Ohr Pharmaceutical, Inc."
+CASE_0654,11043_5_18cv435,archive,HIVE,"Aerohive Networks, Inc."
+CASE_0655,11044_3_18cv193,archive,GPRO,"GoPro, Inc."
+CASE_0656,11045_19-16869,archive,PYPL,"PayPal Holdings, Inc."
+CASE_0657,11046_3_18cv2293,archive,RIOT,"RIOT BLOCKCHAIN, INC."
+CASE_0658,11047_20-2948,archive,LFIN,Longfin Corp.
+CASE_0659,11048_2_18cv8236,archive,EDGE,"Edge Therapeutics, Inc."
+CASE_0660,11049_11md2262,archive,,
+CASE_0661,11050_1_11md2262,archive,,
+CASE_0662,11051_3_13cv447,archive,BAC,Bank of America Corporation
+CASE_0663,11052_NSD1346,archive,,
+CASE_0664,11053_3_16cv151,archive,FIT,Fitbit Inc.
+CASE_0665,11056_1_13cv2811,archive,,
+CASE_0666,11058_1_14cv4132,archive,ANV,Allied Nevada Gold Corporation
+CASE_0667,11059_3_16cv2627,archive,LC,LendingClub Corporation
+CASE_0668,11061_30-2012-00604001-CU-BT-CXC,archive,CRDN,"Ceradyne, Inc."
+CASE_0669,11065_09md02063,archive,,
+CASE_0670,11066_L-006430-06,archive,,
+CASE_0671,11069_5_15cv5841,archive,,"Kalobios Pharmaceuticals, Inc."
+CASE_0672,11073_1_15cv5844,archive,,"Mizuho Bank, Ltd."
+CASE_0673,11075_3_14cv1160,archive,MK,MagnaChip Semiconductor Corp.
+CASE_0674,11078_4_14cv1680,archive,IMPV,"Imperva, Inc."
+CASE_0675,11084_16-md-2742,archive,,
+CASE_0676,11086_16-md-2742,archive,,"Vivint Solar, Inc."
+CASE_0677,11088_3-16846,archive,,UBS Financial Services Incorporated of Puerto Rico
+CASE_0678,11089_1_13cv7789,archive,,
+CASE_0679,11090_1_13cv7789,archive,,"Barclays Bank PLC, Citigroup, Inc., Citibank, N.A., Credit Suisse Group AG, Credit Suisse Securities (USA) LLC, Deutsche Bank AG, JPMorgan Chase & Co., JPMorgan Chase Bank, National Association, Royal Bank of Scotland Group PLC, UBS AG, and UBS Securities LLC"
+CASE_0680,11091_1_13cv7789,archive,,
+CASE_0681,11092_12cv1862,archive,,
+CASE_0682,11095_CA8743,archive,,"Bluefly, Inc."
+CASE_0683,11096_2015CV32501,archive,,Longwei Petroleum Investment Holding Limited
+CASE_0684,11099_1_16cv12336,archive,,"AVID Technology, Inc."
+CASE_0685,11101_1_09-cv-00676,archive,,
+CASE_0686,11102_16-md-2742,archive,,
+CASE_0687,11103_21-986,archive,XPO,"XPO Logistics, Inc."
+CASE_0688,11104_1_18cv11603,archive,TDOC,"Teladoc Health, Inc."
+CASE_0689,11105_5_19cv372,archive,ARLO,"Arlo Technologies, Inc."
+CASE_0690,11107_20-1672,archive,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima
+CASE_0691,11108_1_21cv10335,archive,BLUE,"bluebird bio, Inc."
+CASE_0692,11111_1_19cv1,archive,YRCW,YRC Worldwide Inc.
+CASE_0693,11113_1_19cv230,archive,SOGO,Sogou Inc.
+CASE_0694,11114_4_18cv4727,archive,HLTH,Nobilis Health Corp.
+CASE_0695,11116_0_18-cv-62097-WPD,archive,,"Patriot National, Inc."
+CASE_0696,11117_2_18cv17645,archive,IMMU,"Immunomedics, Inc."
+CASE_0697,11119_2_19cv525,archive,DBVT,DBV Technologies S.A.
+CASE_0698,11120_1_19cv70,archive,PRGO,Perrigo Company plc
+CASE_0699,11121_4_18cv7669,archive,NVDA,NVIDIA Corporation
+CASE_0700,11122_1_18cv12089,archive,AGN,Allergan plc
+CASE_0701,11124_20-1718,archive,DXC,DXC Technology Company
+CASE_0702,11129_1_14cv9662,archive,PBR,Petroleo Brasileiro S.A. Petrobras
+CASE_0703,11147_2_12cv6760,archive,,"Knight Capital Group, Inc."
+CASE_0704,11148_1_15cv3562,archive,OSIR,"OSIRIS THERAPEUTICS, INC."
+CASE_0705,11163_2_12cv14333,archive,,"Digital Domain Media Group, Inc."
+CASE_0706,11164_1_17cv2583,archive,AMMA,"Alliance MMA, Inc."
+CASE_0707,11165_1_10cv621,archive,,"Alternate Energy Holdings, Inc."
+CASE_0708,11166_1_16cv11797,archive,,"American Renal Associates Holdings, Inc."
+CASE_0709,11167_4_15-cv-00163,archive,AEYE,"AudioEye, Inc."
+CASE_0710,11171_15cv82,archive,,"HAMPDEN BANCORP, INC."
+CASE_0711,11173_2_15-cv-01970,archive,RESN,Resonant Inc.
+CASE_0712,11175_CA9808,archive,STG,"Sterling Chemicals, Inc."
+CASE_0713,11176_2_11cv2164,archive,UTG,"Universal Travel Group, Inc."
+CASE_0714,11178_2_14cv5556,archive,,Enzymotec Ltd.
+CASE_0715,11181_2_12cv604,archive,,"Big Lots, Inc."
+CASE_0716,11184_1_14cv10136,archive,,RCS Capital Corporation
+CASE_0717,11185_3_15cv923,archive,,"AAC Holdings, Inc."
+CASE_0718,11186,archive,ATEN,"A10 Networks, Inc."
+CASE_0719,11189_1_14-cv-10105,archive,AEGR,"Aegerion Pharmaceuticals, Inc."
+CASE_0720,11191_1_17cv3577,archive,,"Akari Therapeutics, plc"
+CASE_0721,11192_1_14cv9418,archive,,
+CASE_0722,11193_3_10cv395,archive,,"Amedisys, Inc."
+CASE_0723,11194_3_15cv7350,archive,FOLD,"Amicus Therapeutics, Inc."
+CASE_0724,11195_3_10cv1959,archive,,"Arena Pharmaceuticals, Inc."
+CASE_0725,11199_1_13cv11157,archive,AVEO,"AVEO PHARMACEUTICALS, INC."
+CASE_0726,11205_9_14cv81323,archive,RATE,"Bankrate, Inc."
+CASE_0727,11206_1_13cv6922,archive,,"BioScrip, Inc."
+CASE_0728,11209_2_15cv3080,archive,CDZI,Cadiz Inc.
+CASE_0729,11213_1_15cv2546,archive,,"Clovis Oncology, Inc."
+CASE_0730,11216_1_11cv610,archive,,Computer Sciences Corporation
+CASE_0731,11217_4_14cv548,archive,,"Conn's, Inc."
+CASE_0732,11219_8_10cv252,archive,,"Electronic Game Card, Inc."
+CASE_0733,11220_2_10cv6523,archive,COCO,"Corinthian Colleges, Inc."
+CASE_0734,11222_1_15CV4010,archive,,"Corporate Resource Services, Inc."
+CASE_0735,11223_1_14cv3878,archive,,
+CASE_0736,11225_3_14cv1224,archive,GERN,GERON CORPORATION
+CASE_0737,11235_3_14-cv-1395,archive,RYN,Rayonier Inc.
+CASE_0738,11239_3_15-cv-05447,archive,MRVL,"Marvell Technology Group, Ltd."
+CASE_0739,11244_8_13cv1818,archive,QSI,"Quality Systems, Inc."
+CASE_0740,11251_2_05cv3923,archive,,
+CASE_0741,11252_2_12cv5227,archive,THQ,"THQ, Inc."
+CASE_0742,11253_3_15cv265,archive,ERII,"Energy Recovery, Inc."
+CASE_0743,11256_10-cv-00990,archive,WL,Wilmington Trust Corporation
+CASE_0744,11258_1_15cv7759,archive,,Fifth Street Finance Corp.
+CASE_0745,11261_2_11cv289,archive,,"Green Mountain Coffee Roasters, Inc."
+CASE_0746,11263_3_14cv755,archive,,"Higher One Holdings, Inc."
+CASE_0747,11264_3_16cv980,archive,HDP,"Hortonworks, Inc."
+CASE_0748,11265_4_14cv1680,archive,IMPV,"Imperva, Inc."
+CASE_0749,11267_1_15cv12345,archive,PODD,INSULET CORPORATION
+CASE_0750,11271_4_15cv5046,archive,,"IsoRay, Inc."
+CASE_0751,11272_2_16cv1069,archive,JUNO,"Juno Therapeutics, Inc."
+CASE_0752,11273_4_14cv1287,archive,,
+CASE_0753,11274_1_14cv5037,archive,,"Lihua International, Inc."
+CASE_0754,11275_2_17cv182,archive,LPCN,Lipocine Inc.
+CASE_0755,11276_1_14cv1183,archive,LQDT,Liquidity Services Inc.
+CASE_0756,11278_4_13cv157,archive,,"Lumber Liquidators Holdings, Inc."
+CASE_0757,11283_3_13cv2005,archive,,"NuVasive, Inc."
+CASE_0758,11284_9_14cv81057,archive,OCN,Ocwen Financial Corporation
+CASE_0759,11285_2_16cv1224,archive,PTCT,"PTC Therapeutics, Inc."
+CASE_0760,11286_1_14cv3577,archive,PGEM,"Ply Gem Holdings, Inc."
+CASE_0761,11288_1_14cv8376,archive,,"Retrophin, Inc."
+CASE_0762,11289_1-15-CV-287794,archive,,"Revance Therapeutics, Inc."
+CASE_0763,11290_4_14cv3998,archive,,
+CASE_0764,11293_3_17cv146,archive,,"Tangoe, Inc."
+CASE_0765,11294_2_15cv703,archive,,Telestone Technologies Corporation
+CASE_0766,11295_1_14cv7837,archive,,Textura Corporation
+CASE_0767,11296_6825-VCG,archive,,"Venoco, Inc."
+CASE_0768,11297_4_13cv5486,archive,,
+CASE_0769,11298_1_15cv1249,archive,VRTS,Virtus Investment Partners Inc.
+CASE_0770,11299_1_16md2742,archive,,"Vivint Solar, Inc."
+CASE_0771,11300_3_13cv3567,archive,,
+CASE_0772,11302_4_14cv3084,archive,WG,"Willbros Group, Inc."
+CASE_0773,11308_0_16cv60165,archive,,"Home Loan Servicing Solutions, Ltd."
+CASE_0774,11309_1_15cv6726,archive,CSTE,"Caesarstone, Ltd."
+CASE_0775,11310_3_14cv722,archive,,Montage Technology Group Limited
+CASE_0776,11313_3_14cv682,archive,GNW,"Genworth Financial, Inc."
+CASE_0777,11314_1_15cv1944,archive,AKRX,"Akorn, Inc."
+CASE_0778,11315_3_15cv347,archive,,"Allergan, Inc."
+CASE_0779,11319_3_14cv5628,archive,CVLT,"Commvault Systems, Inc."
+CASE_0780,11321_8922-VCG,archive,,Cornerstone Therapeutics Inc.
+CASE_0781,11324_4_13cv3476,archive,,"Polycom, Inc."
+CASE_0782,11325_0_12cv3070,archive,,"St. Jude Medical, Inc."
+CASE_0783,11326_2_12cv5275,archive,PRU,"Prudential Financial, Inc."
+CASE_0784,11327_6_14cv1606,archive,WRLD,World Acceptance Corporation
+CASE_0785,11339_2_14cv894,archive,VNET,"21Vianet Group, Inc."
+CASE_0786,11340_1_14cv1031,archive,CLF,Cliffs Natural Resources Inc.
+CASE_0787,11347_4_15-Cv-1668,archive,,BlueNRGY Group Limited f/k/a CBD Energy Limited
+CASE_0788,11348_1_13cv5697,archive,MCP,"Molycorp, Inc."
+CASE_0789,11349_1_13-cv-12544,archive,ARIA,"ARIAD Pharmaceuticals, Inc."
+CASE_0790,11350_1_12cv2450,archive,GRPN,"Groupon, Inc."
+CASE_0791,11353_0_16cv60661,archive,,"DS Healthcare Group, Inc."
+CASE_0792,11354_2_16cv5218,archive,,"Misonix, Inc."
+CASE_0793,11358_2_16cv8376,archive,,Agria Corporation
+CASE_0794,11361_0_15cv2393,archive,DDD,3D Systems Corporation
+CASE_0795,11362_1_16cv1869,archive,CALL,magicJack Vocaltec Ltd.
+CASE_0796,11363_1_16cv444,archive,,Cnova N.V.
+CASE_0797,11365_1_14cv1402,archive,ADES,"Advanced Emissions Solutions, Inc."
+CASE_0798,11369_CIV537077,archive,GPRO,"GoPro, Inc."
+CASE_0799,11370_1_10cv3864,archive,,
+CASE_0800,11371_1_09cv554,archive,,
+CASE_0801,11372_CV-09-383998-00CP,archive,,
+CASE_0802,11373_CV-09-383998-00CP,archive,,
+CASE_0803,11375_1_16cv00102,archive,TCPI,TCP International Holdings Ltd.
+CASE_0804,11377_3_15cv347,archive,,"LeapFrog Enterprises, Inc."
+CASE_0805,11378_CIV536488,archive,AVAL,"Avalanche Biotechnologies, Inc."
+CASE_0806,11380_2_13cv6731,archive,,DFC Global Corp.
+CASE_0807,11381_1_14cv6038,archive,,
+CASE_0808,11382_1_15cv3773,archive,,
+CASE_0809,11384_4_14cv226,archive,AMD,"Advanced Micro Devices, Inc."
+CASE_0810,11385_16-civ-02228,archive,TWTR,"Twitter, Inc."
+CASE_0811,11388_1_17cv12,archive,,Vista Outdoor Inc.
+CASE_0812,11391_1_16cv3976,archive,,Unilife Corporation
+CASE_0813,11392_BC550418,archive,,Pacific Coast Oil Trust
+CASE_0814,11395_1_16cv1820,archive,SCOR,"comScore, Inc."
+CASE_0815,11400_2_16-cv-00255,archive,NHTC,Natural Health Trends Corp.
+CASE_0816,11402_1_13cv2111,archive,,Navistar International Corporation
+CASE_0817,11410_3_14cv1564,archive,BXS,"BancorpSouth, Inc."
+CASE_0818,11411_1401-04522,archive,APX,Asia Packaging Group Inc.
+CASE_0819,11412_2_16cv5519,archive,,CytRx Corporation
+CASE_0820,11413_1_16cv10471,archive,PTC,PTC Inc.
+CASE_0821,11416_13cv3851,archive,ABX,Barrick Gold Corporation
+CASE_0822,11419_3_14cv3799,archive,,"Ocean Power Technologies, Inc."
+CASE_0823,11420_3_14cv1982,archive,,"InterCloud Systems, Inc."
+CASE_0824,11421_1_15cv3020,archive,,ForceField Energy Inc.
+CASE_0825,11422_2_13cv1836,archive,,"Atossa Genetics, Inc."
+CASE_0826,11424_04cv9866,archive,,
+CASE_0827,11427_CV-2003-006630,archive,,
+CASE_0828,11428_1_14cv6046,archive,,Penn West Petroleum Ltd.
+CASE_0829,11429_3_14cv1393,archive,,
+CASE_0830,11432_1_15cv2514,archive,,iDreamSky Technology Limited
+CASE_0831,11433_1_14CV4471,archive,,China Mobile Games & Entertainment Group Limited
+CASE_0832,11435_1_16cv2400,archive,BRX,Brixmor Property Group Inc.
+CASE_0833,11437_2_15cv7952,archive,CCIH,ChinaCache International Holdings Ltd.
+CASE_0834,11442_1_14cv443,archive,,GT Advanced Technologies Inc.
+CASE_0835,11445_1_16cv2758,archive,TFCIX,Third Avenue Trust
+CASE_0836,11446_2_07cv2536,archive,,
+CASE_0837,11449_1_15cv7081,archive,RSO,Resource Capital Corp.
+CASE_0838,11450_1_16cv3925,archive,GGB,Gerdau S.A.
+CASE_0839,11451_3-16852,archive,FMCN,Focus Media Holding Limited
+CASE_0840,11454_2_16cv216,archive,,CTI BioPharma Corp.
+CASE_0841,11456_1_15cv5132,archive,BAK,Braskem S.A.
+CASE_0842,11459_7_12cv23,archive,,"TranS1, Inc."
+CASE_0843,11460_21-801,archive,ALKS,Alkermes Public Limited Company
+CASE_0844,11461_2_18cv10725,archive,NVFY,"Nova Lifestyle, Inc."
+CASE_0845,11462_1_19cv24,archive,YRIV,Yangtze River Port and Logistics Limited

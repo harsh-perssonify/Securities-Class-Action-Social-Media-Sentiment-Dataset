@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Securities Class Action Social-Media Sentiment Dataset"
+abstract: >-
+  66,890 X/Twitter message IDs discussing U.S. securities class actions
+  (2002-2025), with sentiment and relevance labels from an LLM classifier,
+  per-message scores from four off-the-shelf sentiment models (VADER,
+  Loughran-McDonald, FinBERT, Twitter-RoBERTa), and a 400-message
+  human-annotated gold standard with its codebook and agreement statistics.
+  The 845 underlying lawsuits ship as a structured case record - court,
+  parties, class period, motion and settlement outcomes, lifecycle dates -
+  so message sentiment can be joined to case outcomes directly. Distributed
+  as message IDs plus labels; message text is re-hydrated by the user via
+  the included tool, in line with X's Developer Agreement.
+type: dataset
+authors:
+  - given-names: AS
+    family-names: Aravinthakshan
+  - given-names: Laven
+    family-names: Srivastava
+    email: laven@perssonify.com
+    affiliation: Perssonify
+  - given-names: Harsh
+    family-names: Nandwani
+version: "1.0.0"
+date-released: "2026-08-12"
+license: CC-BY-NC-4.0
+license-url: "https://creativecommons.org/licenses/by-nc/4.0/"
+keywords:
+  - sentiment analysis
+  - securities litigation
+  - social media
+  - LLM annotation
+  - annotation quality
+  - gold standard
